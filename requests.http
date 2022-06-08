@@ -157,7 +157,7 @@ authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdyYWNlL
 
 POST http://localhost:8080/products HTTP/1.1
 content-type: application/json
-authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdyYWNlLmhvcHBlckBzeXN0ZXJzLnh5eiIsImlhdCI6MTY1NDcwODQwMCwiZXhwIjoxNjU0NzEyMDAwLCJzdWIiOiIyIn0.AtwDckYfy9sQHVjFREm5disN5Uh_LI0eAPFULLfWbWc
+authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdyYWNlLmhvcHBlckBzeXN0ZXJzLnh5eiIsImlhdCI6MTY1NDcwOTA0NywiZXhwIjoxNjU0NzEyNjQ3LCJzdWIiOiIyIn0.jUqYxO0p3sm-BwuIQb38pefuyMWkdOhq3nuZMpYPrdk
 
 {
       "id": 12,

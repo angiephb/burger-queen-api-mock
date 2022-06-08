@@ -83,21 +83,13 @@
     },
     {
       "id": 3,
-      "name": "Agua 500ml",
-      "price": 500,
-      "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
-      "type": "Almuerzo",
-      "dateEntry": "2022-03-05 15:14:10"
-    },
-    {
-      "id": 4,
       "name": "Café con leche",
       "price": 700,
       "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
       "type": "Desayuno"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Jugo de frutas natural",
       "price": 700,
       "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
@@ -105,7 +97,7 @@
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Hamburguesa simple",
       "price": 1000,
       "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
@@ -113,7 +105,7 @@
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Hamburguesa doble",
       "price": 1500,
       "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
@@ -121,7 +113,7 @@
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "Papas fritas",
       "price": 500,
       "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
@@ -129,10 +121,18 @@
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
-      "id": 9,
+      "id": 8,
       "name": "Aros de cebolla",
       "price": 500,
       "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
+      "type": "Almuerzo",
+      "dateEntry": "2022-03-05 15:14:10"
+    },
+    {
+      "id": 9,
+      "name": "Agua 500ml",
+      "price": 500,
+      "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
